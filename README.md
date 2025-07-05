@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌉 Writing Rust [@sfcompute](https://github.com/sfcompute)
+- 😎 Previously, Founder [@getsavvyinc](https://github.com/getsavvyinc/savvy-cli)
+- 💬 [@joshishantanu4](https://x.com/joshishantanu4)
